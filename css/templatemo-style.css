@@ -31,7 +31,7 @@ h6 {
 h1 {
   color: #252525;
   font-size: 3em;
-  line-height: 50px;
+  line-height: 4rem;
 }
 
 h2 {
@@ -149,7 +149,7 @@ section {
   color: #f9f9f9;
   font-size: inherit;
   font-weight: normal;
-  padding: 10px 25px;
+  padding: 1rem 2rem;
   transition: 0.5s 0.2s;
 }
 
@@ -212,7 +212,7 @@ section {
 .custom-navbar {
   border: none;
   margin-bottom: 0;
-  padding: 25px 0;
+  padding: 2rem 0;
 }
 
 .custom-navbar .navbar-brand {
@@ -253,7 +253,7 @@ section {
 }
 
 .custom-navbar .navbar-nav.navbar-right .section-btn a {
-  padding: 10px 25px;
+  padding: 10px 2rem;
 }
 
 .custom-navbar .nav .section-btn a:hover {
@@ -286,7 +286,7 @@ section {
 
 .custom-navbar .navbar-toggle {
   border: none;
-  padding-top: 10px;
+  padding-top: 1rem;
 }
 
 .custom-navbar .navbar-toggle {
@@ -306,10 +306,10 @@ section {
 
   .custom-navbar.top-nav-collapse {
     background: #ffffff;
-    -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
-    -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
-    box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
-    padding: 12px 0;
+    -webkit-box-shadow: 0 1px 2rem rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 1px 2rem rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 2rem rgba(0, 0, 0, 0.1);
+    padding: 1rem 0;
   }
 
   .top-nav-collapse .navbar-brand {
@@ -574,7 +574,7 @@ section {
   right: 0px;
   bottom: 0px;
   text-align: left;
-  padding: 25px 30px;
+  padding: 2rem 2.5rem;
   transition: 0.5s 0.2s;
 }
 
@@ -634,8 +634,7 @@ section {
   -----------------------------------------*/
 
 #testimonial {
-  background: url("../images/slider_image1.jpg") center center no-repeat;
-  background-size: cover;
+  background: #ce3232;
 }
 
 #testimonial .owl-dots {
