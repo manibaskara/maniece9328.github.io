@@ -362,6 +362,8 @@ section {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+  height: 250px;
+  margin-top: 35px;
 }
 
 .tm-slideshow-section-reverse {
@@ -373,20 +375,27 @@ section {
 }
 
 .tm-slideshow {
-  width: 50%;
+  width: 25%;
+  height: 100%;
 }
 
 .tm-slideshow-description {
-  padding: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
   color: white;
-  width: 48%;
-  z-index: 100;
-  margin-left: -42px;
+  height: 100%;
+  margin-top: 35px;
+}
+.tm-slideshow-description-reverse {
+  padding-left: 50px;
+  padding-right: 50px;
+  color: white;
+  height: 100%;
+  margin-top: 35px;
 }
 
 .tm-slideshow-description-left {
   margin-left: auto;
-  margin-right: -42px;
 }
 
 .tm-position-relative {
