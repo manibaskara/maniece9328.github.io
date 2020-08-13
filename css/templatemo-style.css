@@ -234,7 +234,7 @@ section {
 }
 
 .custom-navbar .navbar-brand {
-  color: black;
+  color: #ffffff;
   font-size: 18px;
   font-weight: bold;
 }
@@ -244,7 +244,7 @@ section {
 }
 
 .top-nav-collapse {
-  background: black;
+  background: #ffffff;
 }
 
 .custom-navbar .navbar-nav.navbar-nav-first {
@@ -263,11 +263,11 @@ section {
 
 .custom-navbar .navbar-nav.navbar-right .section-btn:hover {
   background: #292929;
-  color: black;
+  color: #ffffff;
 }
 
 .custom-navbar .navbar-nav.navbar-right .section-btn:focus {
-  color: black;
+  color: #ffffff;
 }
 
 .custom-navbar .navbar-nav.navbar-right .section-btn a {
@@ -275,7 +275,7 @@ section {
 }
 
 .custom-navbar .nav .section-btn a:hover {
-  color: black;
+  color: #ffffff;
 }
 
 .custom-navbar .nav li a {
@@ -350,7 +350,7 @@ section {
   text-align: center;
 }
 .slide-text {
-  color: black;
+  color: white;
 }
 
 .tm-slideshow-section {
@@ -382,14 +382,14 @@ section {
 .tm-slideshow-description {
   padding-left: 50px;
   padding-right: 50px;
-  color: black;
+  color: white;
   height: 100%;
   margin-top: 35px;
 }
 .tm-slideshow-description-reverse {
   padding-left: 50px;
   padding-right: 50px;
-  color: black;
+  color: white;
   height: 100%;
   margin-top: 35px;
 }
@@ -418,7 +418,7 @@ section {
 }
 
 #home h1 {
-  color: black;
+  color: #ffffff;
   padding-bottom: 30px;
 }
 
@@ -473,7 +473,7 @@ section {
   text-align: left;
   background-color: rgba(20, 20, 20, 0.2);
   height: 100%;
-  color: black;
+  color: #fff;
   cursor: e-resize;
   padding: 4em 0 0 2em;
 }
@@ -997,7 +997,7 @@ footer .social-icon {
   }
 
   .custom-navbar {
-    background: black;
+    background: #ffffff;
     -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
     box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
@@ -1033,7 +1033,7 @@ footer .social-icon {
   }
 
   .custom-navbar .section-btn a {
-    color: black !important;
+    color: #ffffff !important;
   }
 
   .slider .caption {
