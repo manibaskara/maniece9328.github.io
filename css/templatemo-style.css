@@ -234,7 +234,7 @@ section {
 }
 
 .custom-navbar .navbar-brand {
-  color: #ffffff;
+  color: #000;
   font-size: 18px;
   font-weight: bold;
 }
@@ -487,15 +487,15 @@ section {
 }
 
 .slider .item-first {
-  background-image: url(../images/banner_thirupathi_ghee.jpeg);
+  background-image: url(../images/banner_thirupathi_ghee.jpg);
 }
 
 .slider .item-second {
-  background-image: url(../images/banner_thirupathi_ghee.jpeg);
+  background-image: url(../images/banner_thirupathi_ghee_red.jpg);
 }
 
 .slider .item-third {
-  background-image: url(../images/banner_thirupathi_ghee.jpeg);
+  background-image: url(../images/banner_thirupathi_ghee.jpg);
 }
 
 .slider .item-second .section-btn {
